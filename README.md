@@ -1,0 +1,6 @@
+
+![Badge Label](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Badge Label](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Badge Label](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Badge Label](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Badge Label](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
