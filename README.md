@@ -1,6 +1,7 @@
+<h2>Sobre</h2>
 Cientista da Computação. Arquiteto de Infraestrutura de Nuvem AWS. Construo softwares e aplicativos por hobby.
 
-<h3>Tecnologias</h3>
+<h2>Tecnologias</h2>
 <hr>
 
 ![Badge Label](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
