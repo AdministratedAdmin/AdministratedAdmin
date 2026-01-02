@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Distintivo_da_Arma_de_Cavalaria_-_Ex%C3%A9rcito_Brasileiro.svg">
+
 <h2>Sobre</h2>
 Cientista da Computação. Arquiteto de Infraestrutura de Nuvem AWS. Construo softwares e aplicativos por hobby.
 
